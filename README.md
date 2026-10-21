@@ -2,7 +2,7 @@
 
 **CSS Gradient & Color Studio** is a free, browser-based tool for web developers. It generates CSS gradients, color palettes, layered box-shadows, CSS variables, and accessible color combinations, with copy-ready code for every tool.
 
-🔗 **Live demo:** https://edin101021.github.io/color-studio/
+🔗 **Live demo:** https://esnaidinkanakan.github.io/color-studio/
 
 ---
 
@@ -60,7 +60,7 @@ color-studio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/edin101021/color-studio.git
+   git clone https://github.com/esnaidinkanakan/color-studio.git
    cd color-studio
    ```
 2. Open `index.html` in your browser.
